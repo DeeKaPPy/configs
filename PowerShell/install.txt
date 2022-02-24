@@ -1,0 +1,7 @@
+https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip
+
+Install-Module PSReadLine
+Install-Module posh-git
+Install-Module PSColors
+Install-Module Terminal-Icons
+Install-Module oh-my-posh

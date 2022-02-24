@@ -1,0 +1,35 @@
+HELP=[b]/m h <channel id> [password of current channel][/b]
+Moves all players from given channel to your current channel!
+[b]/m ah [password of current channel][/b]
+Moves all players from server to your current channel!
+[b]/m t <channel id> [password of target channel][/b]
+Moves all players from your current channel to given channel!
+[b]/m at <channel id> [password of target channel][/b]
+Moves all players from server to given channel!
+[b]/m sgh <server group id> [password of current channel][/b]
+Moves all members of the given server group to your current channel!
+[b]/m sgt <server group id> <channel id> [password of current channel][/b]
+Moves all members of the given server group to the given channel!
+[b]/m fctc <from channel id> <target channel id> [password of target channel][/b]
+Moves all clients of one channel to another channel!
+[b]/m nsgt <server group ID> <target channel id> [password of target channel][/b]
+Moves all clients which are not member of one server group to another channel!
+MSG_DLG_CANCEL=Cancel
+MSG_DLG_OK=OK
+MSG_DLG_RESTART=Settings saved! Please restart TeamSpeak to aktivate new settings.
+MSG_DLG_TREE_CHANNEL_CONTEXT_MENU=Channel context menu
+MSG_DLG_TREE_MAIN_PLUGIN_MENU=Plugin in main menu
+MSG_ERROR_QUERYING_CHANNEL_CLIENT_LIST=Error querying channel client list
+MSG_ERROR_QUERYING_CHANNEL_ID=Error querying channel ID
+MSG_ERROR_QUERYING_CLIENT_ID=Error querying client ID
+MSG_ERROR_QUERYING_CLIENT_LIST=Error querying client list
+MSG_ERROR_REQUESTING_CLIENT_MOVE=Error requesting client move
+MSG_MENU_CHANNEL_FROM_ME=Move clients here from my channel
+MSG_MENU_CHANNEL_FROM_SERVER=Move all clients from server to this channel
+MSG_MENU_CHANNEL_TO_ME=Move clients to my channel
+MSG_MENU_GLOBAL_TO_ME=Move all clients from server to my channel
+MSG_MISSING_2CHANNEL_ID=Missing two channel ID parameters.
+MSG_MISSING_CHANNEL_ID=Missing channel ID parameter.
+MSG_MISSING_CHANNEL_ID_AND_SERVERGROUP_ID=Missing server group ID and channel ID parameter.
+MSG_MISSING_SERVERGROUP_ID=Missing servergroup ID parameter.
+MSG_MISSING_TARGET_CHANNEL_ID=Missing target channel ID parameter.

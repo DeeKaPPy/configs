@@ -1,0 +1,13 @@
+/*
+ * TeamSpeak 3 Default Qt StyleSheet
+ * Special file for Windows Vista/7, loaded in addition to global default_extended.qss stylesheet
+ *
+ * Autor: dante696 from TeamSpeak-Systems GmbH
+ * Feel free to use this Stylesheet for your own theme
+ */
+
+/* Button hover is transparent with Vista style only */
+*QToolButton#newBookmarkButton:hover, QToolButton#newBookmarkFolderButton:hover, QToolButton#removeBookmarkButton:hover {
+*	color: white;
+*}
+ */

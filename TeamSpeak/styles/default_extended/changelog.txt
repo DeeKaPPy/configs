@@ -1,0 +1,64 @@
+----3.5.6
+Compnay logo updated in chat view and info view
+
+
+----3.5.0
+Added the "Badges" in client Info.
+
+----3.2.1 Bugfix
+Fixed a bug where first letter of nickname was cut off
+
+----Updated for client 3.2.0
+Added Integrations dialog
+
+----Updated for client 3.1.10
+Replaced old TeamSpeak logo with TeamSpeak 2018 logo in chat and info dialog.
+
+I made some changes to these images.
+* The image in chat is more invisible compared to original theme.
+* The image shown in info dialog is more aligned to the left.
+
+----Updated for client 3.1.6
+Added Server Nickname(s) into server info dialog
+
+----Updated for client 3.1
+- Added blue banner into Bookmark Manager & first run "myTeamSpeak" dialog
+- Disabled white text when hovering above Buttons "Add Bookmark", "Add folder" & "Remove" in Bookmark Manager
+- Package now does use .ts3_addon as binary ending
+
+
+----Updated for client 3.0.16 and 3.0.17
+Minimal changes for the new icon pack 2014
+
+----Updated for client 3.0.13
+Channel Delete Delay was added into channel info dialog. 
+The message appears, when an empty channel is subscribed + has a delete delay set. 
+
+Examples:
+Channel will be deleted in 4 minutes 42 seconds.
+Channel wird in 4 Minuten 42 Sekunden gelöscht.
+
+----Updated for client 3.0.11 #2
+Small Bugfix with background color.
+
+----Updated for client 3.0.11
+- A custom Style for chat was added  "default_extended_chat.qss"
+- "Online since: 04.07.2012 10:25:49" now shows: "Connected Since:  3 hours 59 minutes 50 seconds" instead
+- Voice Encryption is now shown as an icon behind the codec of the channel
+- The operation system is now shown as an icon behind server- and client version. You can hover with your mouse over the icon.
+
+----Updated for client 3.0.10.1
+Small bugfixes only
+
+----Updated for client 3.0.10
+Stable, Beta, Alpha was added, to get more details about the current client version.
+
+----Updated for client 3.0.9.2
+- "Server License Type" was added.
+- "on" was changed to "auf" and the Lizenz typo was fixed for the german style
+
+----Updated for client 3.0.8
+- You can now drag'n'drop users in their client info into the permission dialog.
+- The Client ID was not shown behind the nickname.
+
+----Release for client 3.0.7
